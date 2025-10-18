@@ -24,51 +24,52 @@
       </div>
 
       <!-- OPTIONS -->
-      <div class="options"></div>
-      <!-- PASSWORD LENGTH -->
-      <label for="length">Password Length</label>
-      <div class="range-container">
-        <input type="range" id="length" min="6" max="25" value="12" />
-        <span id="length-value">12</span>
-      </div>
-
-      <!-- INCLUDE UPPERCASE -->
       <div class="options">
-        <label for="uppercase">Include UPPERCASE</label>
-        <input type="checkbox" id="uppercase" checked />
-      </div>
+        <!-- PASSWORD LENGTH -->
+        <label for="length">Password Length</label>
+        <div class="range-container">
+          <input type="range" id="length" min="6" max="25" value="12" />
+          <span id="length-value">12</span>
+        </div>
 
-      <!-- INCLUDE LOWERCASE -->
-      <div class="options">
-        <label for="lowercase">Include lowercase</label>
-        <input type="checkbox" id="lowercase" checked />
-      </div>
+        <!-- INCLUDE UPPERCASE -->
+        <div class="option">
+          <label for="uppercase">Include UPPERCASE</label>
+          <input type="checkbox" id="uppercase" checked />
+        </div>
 
-      <!-- INCLUDE NUMBERS -->
-      <div class="options">
-        <label for="numbers">Include Numbers</label>
-        <input type="checkbox" id="numbers" checked />
-      </div>
+        <!-- INCLUDE LOWERCASE -->
+        <div class="option">
+          <label for="lowercase">Include lowercase</label>
+          <input type="checkbox" id="lowercase" checked />
+        </div>
 
-      <!-- INCLUDE SYMBOLS -->
-      <div class="options">
-        <label for="symbols">Include Symbols</label>
-        <input type="checkbox" id="symbols" checked />
-      </div>
+        <!-- INCLUDE NUMBERS -->
+        <div class="option">
+          <label for="numbers">Include Numbers</label>
+          <input type="checkbox" id="numbers" checked />
+        </div>
 
-      <!-- GENERATE PASSWORD BUTTON -->
-      <button generate-btn>
-        <i class="fa-solid fa-lock"></i>
-        Generate Password
-      </button>
+        <!-- INCLUDE SYMBOLS -->
+        <div class="option">
+          <label for="symbols">Include Symbols</label>
+          <input type="checkbox" id="symbols" checked />
+        </div>
 
-      <!-- PASSWORD STRENGTH BAR -->
-      <div class="strength-container">
-        <p>Password Strength <span id="strength-label">Medium</span></p>
+        <!-- GENERATE PASSWORD BUTTON -->
+        <button generate-btn>
+          <i class="fa-solid fa-lock"></i>
+          Generate Password
+        </button>
 
-        <!-- STRENGTH METER -->
-        <div class="strength-meter">
-          <div class="strength-bar"></div>
+        <!-- PASSWORD STRENGTH BAR -->
+        <div class="strength-container">
+          <p>Password Strength <span id="strength-label">Medium</span></p>
+
+          <!-- STRENGTH METER -->
+          <div class="strength-meter">
+            <div class="strength-bar"></div>
+          </div>
         </div>
       </div>
     </div>
