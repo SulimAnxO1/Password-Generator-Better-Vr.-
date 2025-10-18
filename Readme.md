@@ -20,9 +20,7 @@ It allows users to securely generate, copy, and store strong passwords directly 
 ## ✨ Features
 
 - ⚙️ Generate strong and customizable passwords
-- 💾 Save and manage passwords securely in **localStorage**
 - 📋 Copy passwords instantly to clipboard
-- 🗑️ Delete saved passwords when needed
 - 📱 Fully responsive, clean, and modern interface
 
 ---
