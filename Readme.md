@@ -27,6 +27,6 @@ It allows users to securely generate, copy, and store strong passwords directly 
 
 ## 🛠️ Technologies Used
 
-- 🧱 HTML
-- 🎨 CSS
-- ⚡ JavaScript
+- 🧱 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
