@@ -1,6 +1,6 @@
 # 🔐 Password Manager & Generator
 
-A powerful and simple **Password Manager and Generator** built using HTML, CSS, and JavaScript.  
+A powerful and simple **Password Manager and Generator** built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to securely generate, copy, and store strong passwords directly in their browser.
 
 ---
