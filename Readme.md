@@ -7,7 +7,7 @@ It allows users to securely generate, copy, and store strong passwords directly 
 
 ## 🌐 Live Demo
 
-👉 [Live Demo](https://pass-man-password-generator.netlify.app/)
+👉 [Live Demo]()
 
 ---
 
