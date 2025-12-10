@@ -5,13 +5,6 @@ It allows users to securely generate, copy, and store strong passwords directly 
 
 ---
 
-## 🚀 Live Demo
-
-### 🌐 [**Live Demo**]()
-
-
----
-
 ## 🖼️ Preview
 
 ![Password Manager Preview](/Image/preview.png)
